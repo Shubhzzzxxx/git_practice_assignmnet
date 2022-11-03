@@ -1,10 +1,10 @@
 //print details
 
 let details= {
-  name: "Shubham",
+  name: "SHUBHAM",
   age: 21,
-  sex: "Male",
-  location: "Ujjain"
+  sex: "MALE",
+  location: "UJJAIN"
 };
 
 // bracket noation
