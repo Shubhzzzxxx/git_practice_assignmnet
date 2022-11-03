@@ -8,10 +8,10 @@ let details= {
 };
 
 // bracket noation
-  console.log(name["location"]);
-  console.log(name["sex"]);
+  console.log(details["location"]);
+  console.log(details["sex"]);
 
 //dot notation
-  console.log(name.name);
-  console.log(name.age);
+  console.log(details.name);
+  console.log(details.age);
 
